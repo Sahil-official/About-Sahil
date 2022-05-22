@@ -20,6 +20,8 @@
 <h1 align="left">
    <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" alt=We Code">
 
+## ABOUT ME
+  <img src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt= language">
 
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/chat_official_sahil)
@@ -29,3 +31,4 @@
 [![telegram badge](https://img.shields.io/badge/SahilOfficial-telegramID-30302f?style=flat&logo=telegram)](https://t.me/itz_sahil_official)
 
 [![instagram badge](https://img.shields.io/badge/SahilOfficial-instagramID-30302f?style=flat&logo=instagram)](https://www.instagram.com/invites/contact/?i=1r8ldk2ly6z6d&utm_content=i549h7z)
+

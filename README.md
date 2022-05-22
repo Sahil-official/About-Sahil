@@ -9,3 +9,4 @@
   ✷ Hello Everyone,
     I am [Sahil](https://t.me/itz_sahil_official).
      
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)

@@ -11,7 +11,11 @@
      
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
-~New in Coding... Trying To Give My best🌟
+~𝙽𝚎𝚠 𝙸𝚗 𝙲𝚘𝚍𝚒𝚗𝚐..😗
+𝙱𝚞𝚝 𝚃𝚛𝚢𝚒𝚗𝚐 𝙼𝚢 𝙱𝚎𝚜𝚝...😉
+
+𝚆𝚊𝚗𝚗𝚊 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 𝙱𝚘𝚝𝚜...🔥
+𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 😏
 
 <h1 align="center">
    <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" alt=my logo">

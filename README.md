@@ -39,3 +39,4 @@
 
 [![instagram badge](https://img.shields.io/badge/SahilOfficial-instagramID-30302f?style=flat&logo=instagram)](https://www.instagram.com/invites/contact/?i=1r8ldk2ly6z6d&utm_content=i549h7z)
 
+[![Facebook badge](https://img.shields.io/badge/SahilOfficial-FacebookID-30302f?style=flat&logo=instagram)](https://www.facebook.com/profile.php?id=100043252290790)

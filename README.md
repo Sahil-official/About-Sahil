@@ -30,7 +30,10 @@
 [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-official&show_icons=true&theme=synthwave)
 )](https://github.com/Sahil-official/github-readme-stats)
 
-<img src="https://skyline.github.com/sahil-official/2021" alt=my Skyline">
+<p align="center">     
+<img src="https://github.com/Sahil-official/Sahil-official/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">    
+
+
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/chat_official_sahil)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/sahil_official_here)

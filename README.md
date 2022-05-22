@@ -26,4 +26,6 @@
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/sahil_official_here)
 
 ## CONTACT ME 
-[![telegram badge](https://img.shields.io/badge/SahilOfficial-Here-30302f?style=flat&logo=telegram)](https://t.me/itz_sahil_official)
+[![telegram badge](https://img.shields.io/badge/SahilOfficial-telegramID-30302f?style=flat&logo=telegram)](https://t.me/itz_sahil_official)
+
+[![instagram badge](https://img.shields.io/badge/SahilOfficial-instagramID-30302f?style=flat&logo=instagram)](https://www.instagram.com/invites/contact/?i=1r8ldk2ly6z6d&utm_content=i549h7z)

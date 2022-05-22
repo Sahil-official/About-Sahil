@@ -19,8 +19,6 @@
 
 <h1 align="left">
    <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" alt=We Code">
-<h1 align="right">
-   <img src="https://telegra.ph/file/01bba7cdfc6fb83e7aefc.jpg" alt=Me">
 
 
 ## Support

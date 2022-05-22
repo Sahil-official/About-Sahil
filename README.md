@@ -10,3 +10,7 @@
     I am [Sahil](https://t.me/itz_sahil_official).
      
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+
+## Support
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/chat_official_sahil)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/sahil_official_here)

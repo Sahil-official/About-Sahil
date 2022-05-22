@@ -27,7 +27,7 @@
 <h1 align="center">
   <img src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt= language">
 
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-official)](https://github.com/Sahil-official/github-readme-stats)
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-official&theme=THEME_NAME=synthwave)](https://github.com/Sahil-official/github-readme-stats)
 
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/chat_official_sahil)

@@ -30,10 +30,11 @@
 [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-official&show_icons=true&theme=synthwave)
 )](https://github.com/Sahil-official/github-readme-stats)
 
+
 <p align="center">     
 <img src="https://github.com/Sahil-official/Sahil-official/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">    
 
-## logos:
+ → MY SPECIALITY 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>

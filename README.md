@@ -16,4 +16,4 @@
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/sahil_official_here)
 
 ## CONTACT ME 
-[![telegram badge](https://img.shields.io/badge/SahilOfficialHere-30302f?style=flat&logo=telegram)](https://t.me/itz_sahil_official)
+[![telegram badge](https://img.shields.io/badge/SahilOfficial-Here-30302f?style=flat&logo=telegram)](https://t.me/itz_sahil_official)

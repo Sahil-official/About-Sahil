@@ -17,8 +17,8 @@
 ~ 𝚆𝚊𝚗𝚗𝚊 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 𝙱𝚘𝚝𝚜...🔥
 [𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 😏](https://github.com/Sahil-official/About-Sahil/blob/main/README.md#contact-me)
 
-<p align="left">
-   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" alt=We Code">
+
+
 
 → ᗩᏞᝪᑎᗴ ᖇᑌᏞᗴᖇ 😎
 
